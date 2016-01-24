@@ -1,2 +1,2 @@
 # labs1
-this is the repo for the linux lab
+This is a repo created for the Cisco Lab KSO Q2
